@@ -1,10 +1,10 @@
-# Masonite Larave Mix
+# Masonite Laravel Mix
 > Let's make Laravel Mix and Masonite Framework work together.
 
 This application is a demo on how you can use Laravel Mix for processing and compiling assets.
 
-View tutorial: Link
+View tutorial: [Link]()
 
-Built With
-Masonite - The Modern And Developer Centric Python Web Framework.
-Laravel Mix - An elegant wrapper around Webpack for the 80% use case.
+Built With:
+* [Masonite](https://github.com/MasoniteFramework/masonite) - The Modern And Developer Centric Python Web Framework.
+* [Laravel Mix](https://github.com/JeffreyWay/laravel-mix) - An elegant wrapper around Webpack for the 80% use case.
