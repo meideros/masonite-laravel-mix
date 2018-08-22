@@ -3,7 +3,7 @@
 
 This application is a demo on how you can use Laravel Mix for processing and compiling assets.
 
-View tutorial: [Link]()
+View tutorial: [Link](https://dev.to/nioperas06/lets-make-masonite-framework-and-laravel-mix-work-together--3lbj)
 
 Built With:
 * [Masonite](https://github.com/MasoniteFramework/masonite) - The Modern And Developer Centric Python Web Framework.
