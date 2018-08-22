@@ -1,4 +1,4 @@
-# Masonite Laravel Mix
+# Masonite - Laravel Mix
 > Let's make Laravel Mix and Masonite Framework work together.
 
 This application is a demo on how you can use Laravel Mix for processing and compiling assets.
